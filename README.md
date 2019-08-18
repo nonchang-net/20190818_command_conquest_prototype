@@ -5,6 +5,9 @@
 	- マスターデータ、ユーザデータ、インベントリ、成長システム、ショップの実装
 	- 操作はHTML表現でシンプルに済ませ、内部設計の検討に注力する
 
+- スマホ確認用github-pages URL
+	- https://nonchang-net.github.io/20190818_command_conquest_prototype/
+
 ## Project setup
 ```
 yarn install
