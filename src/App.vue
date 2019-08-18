@@ -22,6 +22,7 @@
 
 body, html {
 	// border : 5px solid green;
+	overscroll-behavior: none;
 	width : 100%;
 	height : 100%;
 }
@@ -46,6 +47,7 @@ img.flavorBackground {
 div.list {
 	// border : 5px solid red;
 	flex-grow : 10;
+	overscroll-behavior: auto;
 	overflow: scroll;
 }
 
