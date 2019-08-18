@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/20190818_command_conquest_prototype/precache-manifest.a06504e3c3a32ecf38c5ad01dc26b9ed.js"
+  "/20190818_command_conquest_prototype/precache-manifest.9c0a8536752f685e2adfb4337e9e19f3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "20190816_three_ts_cmdconquest_proto"});

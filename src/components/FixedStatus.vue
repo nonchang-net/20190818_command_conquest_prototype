@@ -64,7 +64,7 @@ export default class FixedStatus extends Vue {
 
 	// TODO: enum stateの辞書定義に置き換えたい
 	private readonly townBackground = '32850890c89814227530f4d4b5d053d8.png'
-	private readonly backgroundImagePath = '/img/backgrounds/'
+	private readonly backgroundImagePath = './img/backgrounds/'
 
 	private get imagePath() {
 		// TODO: stateに応じて変更できるように
